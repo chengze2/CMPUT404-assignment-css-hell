@@ -1,0 +1,138 @@
+body{
+	margin: 0px;
+  width: 65%;
+  margin:0 auto;
+  display:block;
+  background-color: #202020;
+}
+section{
+	line-height:100%;
+}
+ul {
+    list-style-type: none;
+    margin: 0px;
+}
+li {
+    float: left;
+    margin-top: 1%;
+    height: 60px;
+    padding: 1%;
+}
+li a {
+    color: black;
+}
+li a:hover {
+    color: Blue;
+		background-color: Brown;
+}
+h1 {
+	font-family:"Arial", Serif;
+  font-size: 2em;
+  padding-left: 2em;
+  padding-right: 2em;
+}
+h2 {
+	font-family:"Arial", Serif;
+  font-size: 1.2em;
+  padding-left: 4em;
+  padding-right: 4em;
+}
+p {
+  font-family:"Helvetica", Serif;
+  font-size: 1.2em;
+  padding-left: 2em;
+  padding-right: 2em;
+}
+
+.top{
+  background-image: url("files/bgimg2.jpg");
+	background-size: cover;
+
+}
+.header{
+	height: 180px;
+	color: white;
+	text-align: center;
+}
+
+.name{
+	margin-top: 20px;
+  margin-right: 600px;
+	font-size: 4em;
+	color:white;
+
+	-webkit-text-stroke: 1px red;
+}
+
+.description{
+	margin-top: 50px;
+  margin-left: 500px;
+	color: black;
+}
+.menu{
+	width: 50%;
+	background-color:Gold;
+	color: white;
+	text-align: center;
+	height: 60px;
+	border-style: solid;
+	margin-left: 300px;
+}
+
+.middle{
+  height:1200px;
+  background-color: white;
+}
+
+.right{
+	width:25%;
+  height: 100%;
+	float: right;
+	background-color: Gold;
+	color: Blue;
+}
+.points{
+  line-height:150%;
+  height: 60%;
+  padding: 1%;
+  background-color: Gold;
+}
+.subscribe{
+  height: 25%;
+  padding: 1%;
+  border-style: solid;
+  text-align:center;
+}
+.left{
+	width:71%;
+	float:left;
+	padding: 1%;
+  background-color: white;
+}
+.welcom{
+	background-color: Pink;
+	font-size: 2em;
+	padding: 2%;
+	line-height:150%;
+}
+.info{
+  padding: 2%;
+}
+.history{
+  padding: 2%;
+}
+.skills{
+  padding: 2%;
+  line-height:100%;
+}
+
+.image_left{
+	float: left;
+	margin: 2%;
+}
+.image_right{
+	float: right;
+	margin: 2%;
+}
+.image_mid{
+}
