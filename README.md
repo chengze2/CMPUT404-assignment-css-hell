@@ -21,4 +21,8 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+Question: What modifications you had to make to the project gutenberg HTML files?
+I have to add "<link rel="stylesheet" type="text/css" href="style.css" />" to apply the css file to each html pages.
 
+References:
+https://www.w3schools.com/
